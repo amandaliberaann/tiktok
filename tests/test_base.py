@@ -1,5 +1,5 @@
-from project_name.base import NAME
+from tiktok.base import NAME
 
 
 def test_base():
-    assert NAME == "project_name"
+    assert NAME == "tiktok"
